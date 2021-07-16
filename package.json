@@ -1,0 +1,18 @@
+{
+  "name": "bases-node",
+  "version": "0.0.1",
+  "description": "It is a table of mult",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "base3": "node app.js"
+  },
+  "author": "Augusto",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "express": "^4.17.1",
+    "yargs": "^17.0.1"
+  },
+  "devDependencies": {}
+}
